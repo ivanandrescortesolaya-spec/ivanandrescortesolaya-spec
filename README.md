@@ -55,7 +55,8 @@ Mi objetivo profesional es convertirme en **Ingeniero de Sistemas**, fortalecien
 
 - *GitHub:* [@ivanandrescortesolaya](https://github.com/ivanandrescortesolaya)  
 - *Email:* ivanandrescortesolaya@gmail.com  
-- *Organización:* [code-sena](https://github.com/code-sena)  
+- *Organización:* [code-sena](https://github.com/code-sena)
+- *contacto:* +57 3018425275
 
 ---
 

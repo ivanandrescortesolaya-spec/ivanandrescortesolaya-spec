@@ -1,7 +1,7 @@
 <!--
 CONFIG
 FULL_NAME: Ivan Andres Cortes Olaya
-GITHUB_USER: ivanandrescortesolaya
+GITHUB_USER: Ivan Andres Cortes Olaya
 EMAIL: ivanandrescortesolaya@gmail.com
 CODE_ORGANIZATION: code-sena
 -->

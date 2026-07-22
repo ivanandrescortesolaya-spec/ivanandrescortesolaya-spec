@@ -1,9 +1,9 @@
 <!--
 CONFIG
 FULL_NAME: Ivan Andres Cortes Olaya
-GITHUB_USER: Ivan Andres Cortes Olaya
+GITHUB_USER: ivanandrescortesolaya
 EMAIL: ivanandrescortesolaya@gmail.com
-CODE_ORGANIZATION: code-sena
+CODE_SENA_URL: https://github.com/code-sena
 -->
 
 <h1 align="center">👨‍💻 Ivan Andres Cortes Olaya</h1>
